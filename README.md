@@ -35,6 +35,13 @@ This highlights a strong national preference for automatic transmissions among d
   - **Foreign Used**
   - **Nigerian Used**
 
+## Conclusion
+The Nigerian Car Market Dashboard offers a clear view into the country's car buying habits.
+
+- Toyota leads as the most preferred brand valued for reliability and resale.
+- Automatic transmission dominates with 94% preference.
+- Gray, Silver, and Black are the most popular car colors.
+- Southern Nigeria shows stronger market activity, likely due to higher income concentration.
 
 ## 🛠 Tools Used
 - **Excel** for data Analysis and data visualization 
